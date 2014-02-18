@@ -3,7 +3,7 @@
 Add Facebook chat ([Tawea][1]) to a template with a simple tag.
 
 
-    {% gmapify color='#CC2700' %}
+    {% tawea color='#CC2700' %}
 
 ## Installation
 
